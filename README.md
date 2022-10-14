@@ -9,6 +9,8 @@
 # Industry jobs
 1. Grammarly internship - https://www.grammarly.com/jobs/engineering/applied-research-scientist-intern?gh_jid=4533879
 
+2. Allen AI - https://boards.greenhouse.io/thealleninstitute/jobs/2171612
+
 # Competitions
 
 1. https://toolscompetition.org
