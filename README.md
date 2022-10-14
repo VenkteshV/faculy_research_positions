@@ -6,7 +6,7 @@
 
 
 # Industry jobs
-
+1. Grammarly internship - https://www.grammarly.com/jobs/engineering/applied-research-scientist-intern?gh_jid=4533879
 
 # Competitions
 
