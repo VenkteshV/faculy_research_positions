@@ -4,3 +4,8 @@
 
 2. https://www.surrey.ac.uk/research/work-with-us/research-fellowships#duration
 
+
+# Competitions
+
+1. https://toolscompetition.org
+
