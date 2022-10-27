@@ -14,6 +14,9 @@
 4. Co:here AI - https://jobs.lever.co/cohere/
 5. https://boards.greenhouse.io/deepmind/jobs/979627?t=bbda0eea1us
 
+# AI residency programs:
+1. https://machinelearning.apple.com/updates/aiml-residency-program-application-2023
+
 # Competitions
 
 1. https://toolscompetition.org
