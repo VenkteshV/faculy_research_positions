@@ -6,6 +6,10 @@
 3. https://www.jobbnorge.no/en/available-jobs/job/231399/associate-professor-in-natural-language-processing
 
 
+# Postdocs
+1. http://academicjobsonline.org/ajo/jobs/23227
+
+
 # Industry jobs
 1. Grammarly internship - https://www.grammarly.com/jobs/engineering/applied-research-scientist-intern?gh_jid=4533879
 
