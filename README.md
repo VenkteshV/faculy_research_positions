@@ -9,7 +9,8 @@
 # Postdocs
 1. http://academicjobsonline.org/ajo/jobs/23227
 
-
+# Internships
+1. https://careers.microsoft.com/us/en/job/1484544/Research-Intern-Artificial-Intelligence
 # Industry jobs
 1. Grammarly internship - https://www.grammarly.com/jobs/engineering/applied-research-scientist-intern?gh_jid=4533879
 
